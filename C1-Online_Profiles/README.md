@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/branperez
  
 ### LinkedIn
-https://www.linkedin.com/in/brandon-perez-b7221ba9/
+https://www.linkedin.com/in/branperez/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
